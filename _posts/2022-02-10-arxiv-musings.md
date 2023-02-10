@@ -18,4 +18,8 @@ The authors use regex + a neural network classifier to extract Social Determinan
 
 ## [Topological Deep Learning: A Review of an Emerging Paradigm](https://arxiv.org/pdf/2302.03836.pdf)
 
-A short survey paper of methods that combine Topological Data Analysis with deep learning. TDA studies the general shape of the data and is robust to deformation and noise, which makes it a powerful tool for data analysis.
+A short survey paper of methods that combine Topological Data Analysis with deep learning. TDA studies the general shape of the data and is robust to deformation and noise, which makes it a powerful tool for data analysis. It can be integrated at several point in a deep learning model: either as a layer to learn embeddings of topological features, as a loss term that compares the topological features of the output to those of the expected output, or after training, to estimate the topological complexity of the model.
+
+The applications seem interesting, and TDA has shown some successes in classification/clustering tasks; but there are some limitations to its integration in a deep learning process: its lack of robustness to sampling (different data samples might have different topologies), and the computational cost of calculating persistent homology, to name a few.
+
+
