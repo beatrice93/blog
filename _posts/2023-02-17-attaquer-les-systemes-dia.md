@@ -9,7 +9,7 @@ tags:
     - "french"
 ---
 
-Quelques notes personnelles sur l'article de la CNIL intitulé "Petite taxonomie des attaques des systèmes d'IA (disponible [ici](https://linc.cnil.fr/fr/petite-taxonomie-des-attaques-des-systemes-dia)).
+Quelques notes personnelles sur l'article de la CNIL intitulé "Petite taxonomie des attaques des systèmes d'IA" (disponible [ici](https://linc.cnil.fr/fr/petite-taxonomie-des-attaques-des-systemes-dia)).
 
 <!--more-->
 
